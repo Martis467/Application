@@ -1,0 +1,11 @@
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\bin\Debug\netcoreapp2.0\TaxManager.deps.json
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\bin\Debug\netcoreapp2.0\TaxManager.runtimeconfig.json
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\bin\Debug\netcoreapp2.0\TaxManager.runtimeconfig.dev.json
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\bin\Debug\netcoreapp2.0\TaxManager.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\bin\Debug\netcoreapp2.0\TaxManager.pdb
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\obj\Debug\netcoreapp2.0\TaxManager.csprojResolveAssemblyReference.cache
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\obj\Debug\netcoreapp2.0\TaxManager.csproj.CoreCompileInputs.cache
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\obj\Debug\netcoreapp2.0\TaxManager.AssemblyInfoInputs.cache
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\obj\Debug\netcoreapp2.0\TaxManager.AssemblyInfo.cs
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\obj\Debug\netcoreapp2.0\TaxManager.dll
+C:\Users\Martis\Documents\Visual Studio 2017\Projects\TaxManager\TaxManager\obj\Debug\netcoreapp2.0\TaxManager.pdb
