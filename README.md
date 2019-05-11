@@ -1,7 +1,5 @@
 # Application
 
-## Endpoints
-
 ### Notes
 
 Schedule value enum:
@@ -12,6 +10,7 @@ Weekly = 2,
 Monthly = 3,
 Yearly = 4
 ```
+## Endpoints
 
 ### Get Taxes
 
